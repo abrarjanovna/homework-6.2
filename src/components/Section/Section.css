@@ -1,0 +1,32 @@
+* {
+  font-family: "Montserrat";
+}
+.section {
+  background-color: #fff;
+  width: 1300px;
+  height: 650px;
+  border: 1px solid #fff;
+  margin: 0 auto;
+}
+.section-card {
+  margin-top: 10px;
+  margin-left: 30px;
+  width: 1230px;
+  height: 610px;
+  background-color: #fff;
+}
+.section-card h1 {
+  line-height: 1.5;
+}
+.section-card p {
+  color: #606060;
+  line-height: 1.5;
+  height: 20px;
+}
+.bgc-img {
+  margin-top: -600px;
+  margin-left: 58.2%;
+}
+.background-img {
+  margin-top: 187px;
+}

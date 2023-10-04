@@ -1,0 +1,31 @@
+.shop {
+  background-color: #fff;
+  width: 1300px;
+  height: 450px;
+  border: 1px solid #fff;
+  margin: 0 auto;
+}
+.shop-card {
+  display: flex;
+  background-color: #f3f4f6;
+  width: 1230px;
+  height: 360px;
+  margin-left: 30px;
+  margin-top: 50px;
+  align-items: center;
+}
+.shop-card h1 {
+  line-height: 1.5;
+  margin-left: 90px;
+}
+.shop-card img {
+  margin-left: 230px;
+}
+.shop-card button {
+  margin-top: 180px;
+  margin-left: -88%;
+  width: 152px;
+  height: 40px;
+  background-color: #156963;
+  color: #fff;
+}
